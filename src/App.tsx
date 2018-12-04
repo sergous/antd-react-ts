@@ -1,5 +1,4 @@
 import { Button } from 'antd'
-import 'antd/dist/antd.css'
 import * as React from 'react'
 import './App.css'
 
